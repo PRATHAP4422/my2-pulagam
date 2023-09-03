@@ -8,3 +8,7 @@ its one of the most beautiful country in **european continent** , the scenic spo
 2. visiting beaches
 3. scuba diving
 4. snorkeling
+
+* fries
+* buzara
+* burek
