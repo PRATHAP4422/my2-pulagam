@@ -23,7 +23,8 @@ We are creating a table for students to try in a different sports
 --------------------------------------------------
 # Code fencing section
 > SVG patterns scaling the way pattern is not cut off
-Link of the svg circle pattern
+
+Link of the svg circle pattern from stackoverflow
 [Svg](https://stackoverflow.com/questions/61179458/svg-patterns-scaling-the-way-pattern-is-not-cut-off)
 
 ```
@@ -53,4 +54,5 @@ Link of the svg circle pattern
 </svg>
 ```
 
+Link from Css-tricks
 [Snippet from css ](https://css-tricks.com/snippets/svg/svg-patterns/)
