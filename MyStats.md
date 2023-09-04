@@ -26,7 +26,8 @@ We are creating a table for students to try in a different sports
 Link of the svg circle pattern
 [Svg](https://stackoverflow.com/questions/61179458/svg-patterns-scaling-the-way-pattern-is-not-cut-off)
 
-```<svg width="100%" height="100%">
+```
+<svg width="100%" height="100%">
   
   <!-- Create mask that we'll use to define a slight gradient -->
   <mask maskUnits="userSpaceOnUse" id="fade">
