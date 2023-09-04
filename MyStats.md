@@ -17,4 +17,4 @@ We are creating a table for students to try in a different sports
 -------------------------------------------------------------
 # Scientist Section
 > "The more I learn, the more I realize how much I don't know." - *Isaac Newton*
-> ""The only source of knowledge is experience." - *Albert Einstein*
+> "The only source of knowledge is experience." - *Albert Einstein*
